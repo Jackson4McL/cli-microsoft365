@@ -1,6 +1,6 @@
 # Install the CLI for Microsoft 365
 
-Thank you for your interest in the CLI for Microsoft 365. Following information will help you install the CLI for Microsoft 365 and keep it up to date.
+Thank you for your interest in the CLI for Microsoft 365. The following information will help you install the CLI for Microsoft 365 and keep it up to date.
 
 ## Prerequisites
 
